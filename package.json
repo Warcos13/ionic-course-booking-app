@@ -10,7 +10,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "ghbuild": "ionic build --prod -- --base-href https://warcos13.github.io/ionic-course-booking-app-build/ && npx angular-cli-ghpages --branch=master --dir=www"
+    "ghbuild": "ionic build --prod -- --base-href https://warcos13.github.io/ionic-course-booking-app/ && npx angular-cli-ghpages --branch=master --dir=www"
   },
   "private": true,
   "dependencies": {
