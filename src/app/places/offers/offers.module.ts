@@ -12,8 +12,8 @@ import { OfferItemComponent } from './offer-item/offer-item.component';
 @NgModule({
   imports: [
     CommonModule,
-    FormsModule,
     IonicModule,
+    FormsModule,
     OffersPageRoutingModule
   ],
   declarations: [OffersPage, OfferItemComponent]
