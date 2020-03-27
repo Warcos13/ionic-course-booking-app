@@ -38,7 +38,6 @@ export class CreateBookingComponent implements OnInit {
               new Date(this.startDate).getTime())
       ).toISOString();
     }
-    console.log(this.startDate, this.endDate);
   }
 
   onBookPlace() {
